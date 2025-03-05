@@ -46,7 +46,7 @@ proyecto realizado en el 2021
 
   
 ## <img height="45px" align="center" src="https://github.com/luqui2/Sistema-para-Viagens-/blob/main/src/imagens/set.gif">   Desenvolvimento:
-- Desenvolvedor: [**Lucas Esteves de Abreu Rodrigues**] - [(*Linkedin*)](https://www.linkedin.com/in/lucas-esteves-de-abreu-rodrigues-848b841ba/)
+- Desenvolvedor: [**johansitoweb**] - [(*github*)](https://github.com/johansitoweb)
   <br>
   - Sistema desenvolvido em Java utilizando swing
   - Banco de Dados: PostgreSQL
